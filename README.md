@@ -8,3 +8,7 @@ Il offre une interface aussi une version contre ordinateur avec entrainement (be
 
 
 C'est un projet qui a été fais en cours de **NSI** niveau terminale en 2023
+
+---
+#### Projet fermé
+---
